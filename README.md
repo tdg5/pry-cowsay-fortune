@@ -2,6 +2,20 @@
 
 pry + cowsay + fortune, ftw!
 
+```bash
+$ pry
+________________________________________
+/ Tomorrow will be cancelled due to lack \
+\ of interest.                           /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+[1] pry(main)>
+```
+
 ## Installation
 
 Add this line to your application's Gemfile:
